@@ -25,10 +25,19 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+<div style="display:flex; justify-content:space-between; align-items: center">
+    <div style="float:left">
+        <ul>
+            <li><strong>性别</strong><span>：男   </span></li>
+            <li><strong>年龄</strong><span>：21岁</span></li>
+            <li><strong>求职意向</strong><span>：Java 研发工程师</span></li>
+            <li><strong>意向城市</strong><span>：北京</span></li>
+        </ul>
+    </div>
+    <div style="float:right; border:1px solid #EBEEF5">
+    	<img src="assets/head.png" width="80px">
+    </div>
+</div>
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
